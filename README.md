@@ -8,7 +8,7 @@ Tenho conhecimentos nas tecnologias/linguagens abaixo. Estão em constante apren
 
 * .NET C# / ASP.NET Core
 * React/Next.js/Tailwind
-* HTML5/CSS/JavaScript/TypeScrit
+* HTML5/CSS/JavaScript/TypeScript
 * Bancos de dados SQL Server (incluindo capacidade de modelar um banco de dados do zero)
 * Python para automatizações 
 
